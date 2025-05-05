@@ -1,1 +1,1 @@
-, #how to learn git #
+, how learn
